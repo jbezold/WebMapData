@@ -1,0 +1,64 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "SBahnSations_in_ServiceArea",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5194229004, 48.1434901998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"F_id" : "node/1452862960",
+				"description" : "Hirschgarten, Gleis 2",
+				"name" : "Hirschgarten",
+				"official_name" : "München Hirschgarten",
+				"operator" : "DB Station&Service AG",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"railway_ref" : "MMHG",
+				"ref" : 2,
+				"train" : "yes",
+				"uic_ref" : 8004179,
+				"wheelchair" : "yes",
+				"network" : "Münchner Verkehrs- und Tarifverbund",
+				"network_guid" : "DE-BY-MVV",
+				"network_short" : "MVV",
+				"network_wikidata" : "Q259000",
+				"layer" : null,
+				"level_" : null,
+				"stroke" : "#00ab44"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5194843999, 48.1436135002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"F_id" : "node/1452862969",
+				"description" : "Hirschgarten, Gleis 1",
+				"name" : "Hirschgarten",
+				"official_name" : "München Hirschgarten",
+				"operator" : "DB Station&Service AG",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"railway_ref" : "MMHG",
+				"ref" : 1,
+				"train" : "yes",
+				"uic_ref" : 8004179,
+				"wheelchair" : "yes",
+				"network" : "Münchner Verkehrs- und Tarifverbund",
+				"network_guid" : "DE-BY-MVV",
+				"network_short" : "MVV",
+				"network_wikidata" : "Q259000",
+				"layer" : null,
+				"level_" : null,
+				"stroke" : "#00ab44"
+			}
+		}
+	]
+}

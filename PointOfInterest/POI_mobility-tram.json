@@ -1,0 +1,182 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "TramStations_in_ServiceArea",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5196336999, 48.1502458001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"F_id" : "node/283339665",
+				"description" : "Steubenplatz, Stop Tram 16/17/N17 Richtung Romanplatz/Amalienburgstraße",
+				"name" : "Steubenplatz",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "yes",
+				"ref" : null,
+				"ref_IFOPT" : null,
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5152732003, 48.1522831 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"F_id" : "node/283339669",
+				"description" : "Kriemhildenstraße, Stop Tram 16/17/N17 Richtung Romanplatz/Amalienburgstraße",
+				"name" : "Kriemhildenstraße",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "yes",
+				"ref" : null,
+				"ref_IFOPT" : null,
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5295853004, 48.1472726003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"F_id" : "node/295537272",
+				"description" : "Burghausener Straße, Stop Tram 16/17/N17 Richtung Romanplatz/Amalienburgstraße",
+				"name" : "Burghausener Straße",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "yes",
+				"ref" : 2,
+				"ref_IFOPT" : "de:09162:218:2:2",
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5243305998, 48.1490918998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"F_id" : "node/295537297",
+				"description" : "Briefzentrum, Stop Tram 16/17/N17 Richtung Romanplatz/Amalienburgstraße",
+				"name" : "Briefzentrum",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "yes",
+				"ref" : 2,
+				"ref_IFOPT" : "de:09162:217:2:2",
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5154035997, 48.1521553998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"F_id" : "node/297265351",
+				"description" : "Kriemhildenstraße, Stop Tram 16/17/N16 Richtung St. Emmeram/Schwanseestraße/Effnerplatz",
+				"name" : "Kriemhildenstraße",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "limited",
+				"ref" : null,
+				"ref_IFOPT" : null,
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5209795999, 48.1499802 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"F_id" : "node/297270141",
+				"description" : "Steubenplatz, Stop Tram 16/17/N16 Richtung St. Emmeram/Schwanseestraße/Effnerplatz",
+				"name" : "Steubenplatz",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "yes",
+				"ref" : null,
+				"ref_IFOPT" : null,
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5245382004, 48.1489885003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"F_id" : "node/297270147",
+				"description" : "Briefzentrum, Stop Tram 16/17/N16 Richtung St. Emmeram/Schwanseestraße/Effnerplatz",
+				"name" : "Briefzentrum",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "yes",
+				"ref" : 1,
+				"ref_IFOPT" : "de:09162:217:2:1",
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5297932999, 48.1472009998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"F_id" : "node/297270159",
+				"description" : "Burghausener Straße, Stop Tram 16/17/N16 Richtung St. Emmeram/Schwanseestraße/Effnerplatz",
+				"name" : "Burghausener Straße",
+				"public_transport" : "stop_position",
+				"railway" : "stop",
+				"tram" : "yes",
+				"wheelchair" : "limited",
+				"ref" : 1,
+				"ref_IFOPT" : "de:09162:218:2:1",
+				"wheelchair_description" : null,
+				"wheelchair_tram" : null,
+				"stroke" : "#1c0082"
+			}
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Cafes_in_ServiceArea",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5217226001, 48.1445569001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"F_id" : "node/4292908927",
+				"addr_city" : null,
+				"addr_country" : null,
+				"addr_housenumber" : null,
+				"addr_postcode" : null,
+				"addr_street" : null,
+				"amenity" : "bar",
+				"cuisine" : null,
+				"name" : null,
+				"smoking" : null,
+				"wheelchair" : null,
+				"fax" : null,
+				"old_website" : null,
+				"phone" : null,
+				"min_age" : null,
+				"opening_hours" : null,
+				"website" : null,
+				"wifi" : null,
+				"indoor_seating" : null,
+				"operator" : null,
+				"outdoor_seating" : "yes",
+				"wheelchair_description" : null,
+				"layer" : -1,
+				"contact_facebook" : null,
+				"contact_phone" : null,
+				"source" : null,
+				"start_date" : null,
+				"contact_website" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5319893996, 48.1483300003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"F_id" : "node/5220254848",
+				"addr_city" : "München",
+				"addr_country" : "DE",
+				"addr_housenumber" : 23,
+				"addr_postcode" : 80634,
+				"addr_street" : "Hirschbergstraße",
+				"amenity" : "bar",
+				"cuisine" : null,
+				"name" : "Gorilla Bar",
+				"smoking" : null,
+				"wheelchair" : "no",
+				"fax" : null,
+				"old_website" : null,
+				"phone" : null,
+				"min_age" : null,
+				"opening_hours" : "Mo 19:00-24:00; Tu-Sa 00:00-01:00,19:00-24:00; Su 00:00-02:00",
+				"website" : null,
+				"wifi" : null,
+				"indoor_seating" : "yes",
+				"operator" : null,
+				"outdoor_seating" : "no",
+				"wheelchair_description" : null,
+				"layer" : null,
+				"contact_facebook" : null,
+				"contact_phone" : "+49 89 97896310",
+				"source" : null,
+				"start_date" : null,
+				"contact_website" : "https://gorilla-bar.com/"
+			}
+		}
+	]
+}

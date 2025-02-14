@@ -1,0 +1,210 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "supermarkets_inServiceArea",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5227852, 48.153395 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"id" : "2166082206",
+				"timestamp" : "",
+				"user" : "",
+				"visible" : "",
+				"created_by" : null,
+				"area" : null,
+				"layer" : null,
+				"uid" : "",
+				"version" : "",
+				"changeset" : "",
+				"tag___k" : null,
+				"tag___v" : null,
+				"nd___ref" : null,
+				"member___type" : null,
+				"member___ref" : null,
+				"member___role" : null,
+				"osm_feature_type" : null,
+				"osm_theme" : null,
+				"name" : "EDEKA xpress",
+				"addr_street" : "Nibelungenstraße",
+				"source" : null,
+				"building" : null,
+				"addr_housenumber" : "32",
+				"shop" : "supermarket"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5194674, 48.146139 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"id" : "2579589187",
+				"timestamp" : "",
+				"user" : "",
+				"visible" : "",
+				"created_by" : null,
+				"area" : null,
+				"layer" : null,
+				"uid" : "",
+				"version" : "",
+				"changeset" : "",
+				"tag___k" : null,
+				"tag___v" : null,
+				"nd___ref" : null,
+				"member___type" : null,
+				"member___ref" : null,
+				"member___role" : null,
+				"osm_feature_type" : null,
+				"osm_theme" : null,
+				"name" : "REWE",
+				"addr_street" : null,
+				"source" : null,
+				"building" : null,
+				"addr_housenumber" : null,
+				"shop" : "supermarket"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5189406, 48.1408681 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"id" : "4193596098",
+				"timestamp" : "",
+				"user" : "",
+				"visible" : "",
+				"created_by" : null,
+				"area" : null,
+				"layer" : null,
+				"uid" : "",
+				"version" : "",
+				"changeset" : "",
+				"tag___k" : null,
+				"tag___v" : null,
+				"nd___ref" : null,
+				"member___type" : null,
+				"member___ref" : null,
+				"member___role" : null,
+				"osm_feature_type" : null,
+				"osm_theme" : null,
+				"name" : "Edeka Hammerer",
+				"addr_street" : "Elsenheimerstraße",
+				"source" : null,
+				"building" : null,
+				"addr_housenumber" : "1",
+				"shop" : "supermarket"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5195283, 48.1458458 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"id" : "6211125874",
+				"timestamp" : "",
+				"user" : "",
+				"visible" : "",
+				"created_by" : null,
+				"area" : null,
+				"layer" : null,
+				"uid" : "",
+				"version" : "",
+				"changeset" : "",
+				"tag___k" : null,
+				"tag___v" : null,
+				"nd___ref" : null,
+				"member___type" : null,
+				"member___ref" : null,
+				"member___role" : null,
+				"osm_feature_type" : null,
+				"osm_theme" : null,
+				"name" : "Alnatura Super Natur Markt",
+				"addr_street" : "Friedenheimer Brücke",
+				"source" : null,
+				"building" : null,
+				"addr_housenumber" : "23",
+				"shop" : "supermarket"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5194023, 48.1458529 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"id" : "6414912313",
+				"timestamp" : "",
+				"user" : "",
+				"visible" : "",
+				"created_by" : null,
+				"area" : null,
+				"layer" : null,
+				"uid" : "",
+				"version" : "",
+				"changeset" : "",
+				"tag___k" : null,
+				"tag___v" : null,
+				"nd___ref" : null,
+				"member___type" : null,
+				"member___ref" : null,
+				"member___role" : null,
+				"osm_feature_type" : null,
+				"osm_theme" : null,
+				"name" : "ALDI Süd",
+				"addr_street" : "Friedenheimer Brücke",
+				"source" : null,
+				"building" : null,
+				"addr_housenumber" : "23",
+				"shop" : "supermarket"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5292205, 48.1492058 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"id" : "9922928905",
+				"timestamp" : "",
+				"user" : "",
+				"visible" : "",
+				"created_by" : null,
+				"area" : null,
+				"layer" : null,
+				"uid" : "",
+				"version" : "",
+				"changeset" : "",
+				"tag___k" : null,
+				"tag___v" : null,
+				"nd___ref" : null,
+				"member___type" : null,
+				"member___ref" : null,
+				"member___role" : null,
+				"osm_feature_type" : null,
+				"osm_theme" : null,
+				"name" : "EDEKA Rehwald",
+				"addr_street" : null,
+				"source" : null,
+				"building" : null,
+				"addr_housenumber" : null,
+				"shop" : "supermarket"
+			}
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Hotels_in_ServiceArea",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5195066997, 48.1447159002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"F_id" : "node/12101220247",
+				"addr_city" : "München",
+				"addr_country" : "DE",
+				"addr_housenumber" : 15,
+				"addr_postcode" : 80639,
+				"addr_street" : "Friedenheimer Brücke",
+				"contact_phone" : null,
+				"contact_website" : "https://www.ihg.com/holidayinnexpress/hotels/de/de/munich/mucwt/hoteldetail",
+				"name" : "Holiday Inn Express",
+				"toilets_wheelchair" : null,
+				"tourism" : "hotel",
+				"wheelchair" : "yes",
+				"wikidata" : null,
+				"phone" : null,
+				"website" : null,
+				"email" : null,
+				"fax" : null,
+				"internet_access" : "wlan",
+				"internet_access_fee" : null,
+				"rooms" : null,
+				"smoking" : null,
+				"stars" : null,
+				"operator" : null,
+				"contact_email" : "info.munich@ihg.com",
+				"brand" : "Holiday Inn Express",
+				"brand_wikidata" : "Q5880423",
+				"brand_wikipedia" : "en:Holiday Inn Express",
+				"opening_hours" : null,
+				"wheelchair_description" : null,
+				"building_use" : null,
+				"alt_name" : null,
+				"official_name" : null,
+				"internet_access_ssid" : "IHGConnect"
+			}
+		}
+	]
+}

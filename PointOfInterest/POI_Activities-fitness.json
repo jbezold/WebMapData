@@ -1,0 +1,84 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "FitnessStudio_in_ServiceArea",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5206881999, 48.1495645998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"F_id" : "node/4724803899",
+				"addr_city" : "München",
+				"addr_country" : null,
+				"addr_housenumber" : "205",
+				"addr_postcode" : 80634,
+				"addr_street" : "Arnulfstraße",
+				"leisure" : "fitness_centre",
+				"name" : "Kieser Training",
+				"opening_hours_signed" : null,
+				"website" : "https://www.kieser.de/studios/muenchen-neuhausen/",
+				"wheelchair" : "no",
+				"brand" : "Kieser Training",
+				"brand_wikidata" : "Q1112367",
+				"brand_wikipedia" : "de:Kieser Training",
+				"check_date" : "20241213",
+				"opening_hours" : "Mo-Fr 07:30-21:30; Sa,Su,PH 09:00-18:00",
+				"sport" : null,
+				"email" : null,
+				"personal_trainer" : null,
+				"phone" : null,
+				"branch" : null,
+				"contact_mobile" : null,
+				"contact_website" : null,
+				"addr_unit" : null,
+				"contact_email" : null,
+				"description" : null,
+				"fixme" : null,
+				"operator" : null,
+				"stroke" : "#8a3900"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.5203817998, 48.1447289 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"F_id" : "node/10068607771",
+				"addr_city" : "München",
+				"addr_country" : null,
+				"addr_housenumber" : "16",
+				"addr_postcode" : 80639,
+				"addr_street" : "Friedenheimer Brücke",
+				"check_date_opening_hours" : "20240513",
+				"leisure" : "fitness_centre",
+				"name" : "body + soul Hirschgarten",
+				"opening_hours_signed" : null,
+				"website" : "https://www.bodyandsoul.de/standorte/hirschgarten/das-center-im-ueberblick",
+				"wheelchair" : null,
+				"brand" : null,
+				"brand_wikidata" : null,
+				"brand_wikipedia" : null,
+				"opening_hours" : "Mo-Fr 06:00-24:00; Sa-Su 09:00-22:00; PH 09:00-22:00",
+				"sport" : "fitness;swimming;climbing",
+				"email" : null,
+				"personal_trainer" : null,
+				"phone" : "+49 89 502 005 0",
+				"branch" : null,
+				"contact_mobile" : null,
+				"contact_website" : null,
+				"addr_unit" : null,
+				"contact_email" : null,
+				"description" : null,
+				"fixme" : null,
+				"operator" : null,
+				"stroke" : "#8a3900"
+			}
+		}
+	]
+}
